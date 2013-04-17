@@ -43,12 +43,24 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/m7/proprietary/lib/libmpl.so:system/lib/libmpl.so \
 	vendor/htc/m7/proprietary/lib/libmpl_jni.so:system/lib/libmpl_jni.so \
 	vendor/htc/m7/proprietary/etc/agps_rm:system/etc/agps_rm \
+        vendor/htc/m7/proprietary/bin/cand:system/bin/cand \
 	vendor/htc/m7/proprietary/bin/charging:system/bin/charging \
+        vendor/htc/m7/proprietary/bin/cir_fw_update:system/bin/cir_fw_update \
+        vendor/htc/m7/proprietary/bin/dmagent:system/bin/dmagent \
+        vendor/htc/m7/proprietary/bin/DxDrmServerIpc:system/bin/DxDrmServerIpc \
+        vendor/htc/m7/proprietary/bin/efsks:system/bin/efsks \
+        vendor/htc/m7/proprietary/bin/hcheck:system/bin/hcheck \
+        vendor/htc/m7/proprietary/bin/hdmid:system/bin/hdmid \
+        vendor/htc/m7/proprietary/bin/ks:system/bin/ks \
+        vendor/htc/m7/proprietary/bin/memlock:system/bin/memlock \
 	vendor/htc/m7/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
 	vendor/htc/m7/proprietary/bin/mpdecision:system/bin/mpdecision \
 	vendor/htc/m7/proprietary/bin/netmgrd:system/bin/netmgrd \
 	vendor/htc/m7/proprietary/bin/netsharing:system/bin/netsharing \
+        vendor/htc/m7/proprietary/bin/pnpmgr:system/bin/pnpmgr \
+        vendor/htc/m7/proprietary/bin/qcks:system/bin/qcks \
 	vendor/htc/m7/proprietary/bin/qmuxd:system/bin/qmuxd \
+        vendor/htc/m7/proprietary/bin/qseecomd:system/bin/qseecomd \
 	vendor/htc/m7/proprietary/bin/thermald:system/bin/thermald \
 	vendor/htc/m7/proprietary/bin/zchgd:system/bin/zchgd \
 	vendor/htc/m7/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
