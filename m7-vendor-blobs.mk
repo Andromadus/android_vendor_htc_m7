@@ -87,6 +87,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/m7/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
 	vendor/htc/m7/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
 	vendor/htc/m7/proprietary/lib/libc2d2_a3xx.so:system/lib/libc2d2_a3xx.so \
+        vendor/htc/m7/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
 	vendor/htc/m7/proprietary/lib/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
 	vendor/htc/m7/proprietary/lib/libgsl.so:system/lib/libgsl.so \
 	vendor/htc/m7/proprietary/lib/libOpenCL.so:system/lib/libOpenCL.so \
