@@ -133,6 +133,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/m7/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
 	vendor/htc/m7/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
 	vendor/htc/m7/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
+        vendor/htc/m7/proprietary/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
 	vendor/htc/m7/proprietary/lib/libdiag.so:system/lib/libdiag.so \
 	vendor/htc/m7/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
 	vendor/htc/m7/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
